@@ -10,3 +10,8 @@ if word in meme_dict.keys():
 else:
     print('У нас нет такого слова, Но мы над этим работаем')
             
+if word in meme_dict.keys():
+    print(meme_dict[word])
+else:
+    print('У нас нет такого слова, Но мы над этим работаем')
+            
